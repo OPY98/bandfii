@@ -12,6 +12,10 @@
   display: none;
 }
 
+#img-main{
+  display: inline-block;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
